@@ -1,0 +1,5 @@
+ARP table after refill
+? (192.168.1.1) at 00:11:22:33:44:55 on eth0 ifscope [ether]
+? (192.168.1.36) at 60:45:cb:ef:12:34 on eth0 ifscope [ether]
+? (192.168.1.7) at 22:33:44:55:66:77 on eth0 ifscope [ether]
+? (192.168.1.9) at 88:99:aa:bb:cc:dd on eth0 ifscope [ether]

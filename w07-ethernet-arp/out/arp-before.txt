@@ -1,0 +1,4 @@
+ARP table before clearing
+? (192.168.1.1) at 00:11:22:33:44:55 on eth0 ifscope [ether]
+? (192.168.1.36) at 60:45:cb:ef:12:34 on eth0 ifscope [ether]
+? (192.168.1.12) at aa:bb:cc:dd:ee:ff on eth0 ifscope [ether]
